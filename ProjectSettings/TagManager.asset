@@ -38,6 +38,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Road
+    uniqueID: 995314387
+    locked: 0
   - name: Ground
     uniqueID: 767016923
     locked: 0
